@@ -1,2 +1,2 @@
 Exercices THP :
-groupe : @Anouar, @Rado
+groupe : @Anouar, @Rado, @skinito
